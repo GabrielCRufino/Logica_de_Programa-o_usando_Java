@@ -12,7 +12,7 @@ public class Ex1 {
 		int resultado = number1 + number2;
 		
 		System.out.println("A soma é igual a: " + resultado);
-		
+		System.out.println();
 		sc.close();
 	}
 }
